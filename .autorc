@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "gorod0k",
+  "repo": "container-vb2u-te",
+  "name": "gorod0k",
+  "email": "gorod_ok_77@mail.ru",
+}
